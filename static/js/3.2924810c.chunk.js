@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-pwa-project"]=this["webpackJsonpreact-pwa-project"]||[]).push([[3],{13:function(t,e,c){"use strict";c.r(e),c.d(e,"default",(function(){return r}));var n=c(0);function r(){return Object(n.jsx)("div",{children:Object(n.jsx)("h1",{children:"this is from test component"})})}}}]);
+//# sourceMappingURL=3.2924810c.chunk.js.map
